@@ -229,7 +229,7 @@ To enable your app for push notifications, you need to carry out the following t
 ### Compress your .mdkproject (Required for a customized client)
 
 
-If you haven't created your local `.mdkproject`, have a look at step 3 from [Build Your Mobile Development Kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client.html) tutorial.
+If you haven't created your local `.mdkproject`, have a look at step 3 from [Build Your mobile development kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client.html) tutorial.
 
 Compress your `.mdkproject` folder, the resulting zip file will be used to create a build job for a customized mobile development kit client in Mobile Services admin UI.
 
@@ -290,7 +290,7 @@ You can find more details about Cloud Build service in [help documentation](http
 
     <!-- border -->![MDK](img-4.0.png)
 
-3. In the **Basic Information** step, select **Mobile Development Kit Client** from **Client Type** dropdown.
+3. In the **Basic Information** step, select **mobile development kit Client** from **Client Type** dropdown.
 
 
     <!-- border -->![MDK](img-4.2.png)
@@ -343,7 +343,7 @@ You can find more details about Cloud Build service in [help documentation](http
 
     <!-- border -->![MDK](img-4.0.png)
 
-3. In the **Basic Information** step, select **Customized Mobile Development Kit Client** from **Client Type** dropdown.
+3. In the **Basic Information** step, select **Customized mobile development kit Client** from **Client Type** dropdown.
 
     <!-- border -->![MDK](img-4.9.png)
 

@@ -46,7 +46,7 @@ You will download your MDK project to your local machine. This will be necessary
 
 ### Create and run MDK client
 
-1. Follow the [Build Your Mobile Development Kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client.html) tutorial to create your branded MDK client and run it on a simulator or a device. 
+1. Follow the [Build Your mobile development kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client.html) tutorial to create your branded MDK client and run it on a simulator or a device. 
 
 2. After successfully onboarding your mobile client, click **Now** to accept the app update.
 

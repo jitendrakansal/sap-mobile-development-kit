@@ -38,7 +38,7 @@ Make sure that you have completed required prerequisites mentioned in this tutor
 
     <!-- border -->![MDK](img-2.1.png)
 
-3. In the **Type of Application** step, select the **Mobile Development Kit (MDK)** and choose **Next**.
+3. In the **Type of Application** step, select the **mobile development kit (MDK)** and choose **Next**.
 
     <!-- border -->![MDK](img-2.2.png)
 
