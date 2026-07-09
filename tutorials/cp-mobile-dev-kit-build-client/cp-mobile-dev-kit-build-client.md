@@ -9,21 +9,21 @@ author_profile: https://github.com/jitendrakansal
 ---
 
 # Build Your Mobile Development Kit Client Using MDK SDK
-<!-- description --> Set up your development environment that enable MDK SDK so that you can begin building your branded Mobile Development Kit client.
+<!-- description --> Set up your development environment that enable MDK SDK so that you can begin building your branded mobile development kit client.
 
 ## Prerequisites
 - **Tutorial**: [Set Up Initial Configuration for an MDK App](https://developers.sap.com/tutorials/cp-mobile-dev-kit-ms-setup.html)
-- **Download the latest version of Mobile Development Kit SDK** either from the SAP community [trial download](https://developers.sap.com/trials-downloads.html?search=Mobile+Development+Kit) or [SAP Software Center](https://me.sap.com/softwarecenter) if you are a SAP Mobile Services customer
+- **Download the latest version of mobile development kit SDK** either from the SAP community [trial download](https://developers.sap.com/trials-downloads.html?search=Mobile+Development+Kit) or [SAP Software Center](https://me.sap.com/softwarecenter) if you are a SAP Mobile Services customer
 
 ## You will learn
-  - How to install a Mobile development kit client SDK on Mac and Windows OS
-  - How to build a branded Mobile development kit client for iOS and Android
+  - How to install a mobile development kit client SDK on Mac and Windows OS
+  - How to build a branded mobile development kit client for iOS and Android
   - How to connect to SAP Mobile app
 
   There are 3 options for mobile development kit client:
 
   1. Install the SAP Mobile Services client from the public store which is meant for demo and development or learning purposes
-  2. [Use the Cloud Build feature in SAP Mobile Services to generate a MDK Client](https://developers.sap.com/tutorials/cp-mobile-dev-kit-cbs-client.html) 
+  2. [Use the Cloud Build feature in SAP Mobile Services to generate a MDK client](https://developers.sap.com/tutorials/cp-mobile-dev-kit-cbs-client.html) 
   3. Build a client on your local machine in your organization development environment using MDK SDK
 
 ## Intro

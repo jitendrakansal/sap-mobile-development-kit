@@ -9,11 +9,11 @@ author_profile: https://github.com/jitendrakansal
 ---
 
 # Implement Deep Linking into an MDK Application
-<!-- description --> Set up the Mobile Development Kit client to accept deep links through URL schemes and HTTP URLs (iOS Universal Links and Android App Links). With this feature, your MDK app can be launched to perform actions like navigating to a page, filter a list based on a parameter, or approving a request from external sources (web page, email, or another app).
+<!-- description --> Set up the mobile development kit client to accept deep links through URL schemes and HTTP URLs (iOS Universal Links and Android App Links). With this feature, your MDK app can be launched to perform actions like navigating to a page, filter a list based on a parameter, or approving a request from external sources (web page, email, or another app).
 
 ## Prerequisites
 - **Tutorial**: [Set Up for the Mobile Development Kit (MDK)](https://developers.sap.com/group.mobile-dev-kit-setup.html)
-- **Download the latest version of Mobile Development Kit SDK** either from the SAP community [trial download](https://developers.sap.com/trials-downloads.html?search=Mobile+Development+Kit) or [SAP Software Center](https://me.sap.com/softwarecenter) if you are a SAP Mobile Services customer. This is required you to build a branded client.
+- **Download the latest version of mobile development kit SDK** either from the SAP community [trial download](https://developers.sap.com/trials-downloads.html?search=Mobile+Development+Kit) or [SAP Software Center](https://me.sap.com/softwarecenter) if you are a SAP Mobile Services customer. This is required you to build a branded client.
 
 
 ## You will learn
@@ -23,7 +23,7 @@ author_profile: https://github.com/jitendrakansal
 
 
 ## Intro
-You may clone an existing metadata project from the [MDK Tutorial GitHub repository](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/tree/main/5-Brand-Your-Customized-App-with-Mobile-Development-Kit-SDK/2-Implement-Deep-Linking-into-an-MDK-Application) and start directly with step 3 in this tutorial.
+You may clone an existing metadata project from the [MDK Tutorial GitHub repository](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/tree/main/5-Brand-Your-Customized-App-with-mobile-development-kit-SDK/2-Implement-Deep-Linking-into-an-MDK-Application) and start directly with step 3 in this tutorial.
 
 ---
 
@@ -311,7 +311,7 @@ Now that the MDK application is configured to act when a request from external s
 
 [OPTION BEGIN [iOS]]
 
-1. Open SAP Mobile Services Cockpit, click **Mobile Applications** **&rarr;** **Native/MDK** **&rarr;** click `myapp.mdk.demo` app.
+1. Open SAP Mobile Services Admin UI, click **Mobile Applications** **&rarr;** **Native/MDK** **&rarr;** click `myapp.mdk.demo` app.
 
     <!-- border -->![MDK](img-4.1.png)
 
@@ -408,7 +408,7 @@ Now that the MDK application is configured to act when a request from external s
     DEVELOPMENT_TEAM = <Your Team ID>
     ```
 
-6. Create your MDK client either using MDK SDK by following the step 4 from [Build Your Mobile Development Kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client.html) tutorial OR using SAP Cloud Build Service by following [Build Your Mobile Development Kit Client Using Cloud Build Service](https://developers.sap.com/tutorials/cp-mobile-dev-kit-cbs-client.html) tutorial.
+6. Create your MDK client either using MDK SDK by following the step 4 from [Build Your Mobile Development Kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client.html) tutorial OR using SAP Cloud Build Service by following [Build Your mobile development kit Client Using Cloud Build Service](https://developers.sap.com/tutorials/cp-mobile-dev-kit-cbs-client.html) tutorial.
 
 ### Run the MDK Client
 
@@ -533,7 +533,7 @@ For this tutorial, to test the deep links, you will download an `index.html` on 
 
 [OPTION BEGIN [Android]]
 
-1. Download a zip file from [here](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/raw/main/5-Brand-Your-Customized-App-with-Mobile-Development-Kit-SDK/2-Implement-Deep-Linking-into-an-MDK-Application/index.html.zip) on your local machine and unzip it on your machine.
+1. Download a zip file from [here](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/raw/main/5-Brand-Your-Customized-App-with-mobile-development-kit-SDK/2-Implement-Deep-Linking-into-an-MDK-Application/index.html.zip) on your local machine and unzip it on your machine.
 
 2. Open the `index.html` in a text editor and update the values for `<Server URL>` and `<Enter a Product ID>`.
 
@@ -569,7 +569,7 @@ For this tutorial, to test the deep links, you will download an `index.html` on 
 
 [OPTION BEGIN [iOS]]
 
-1. Download a zip file from [here](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/raw/main/5-Brand-Your-Customized-App-with-Mobile-Development-Kit-SDK/2-Implement-Deep-Linking-into-an-MDK-Application/index.html.zip) on your local machine and unzip it on your machine.
+1. Download a zip file from [here](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/raw/main/5-Brand-Your-Customized-App-with-mobile-development-kit-SDK/2-Implement-Deep-Linking-into-an-MDK-Application/index.html.zip) on your local machine and unzip it on your machine.
 
 2. Open the `index.html` in a text editor and update values for `<Server URL>` and `<Enter a Product ID>`.
 

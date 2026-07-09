@@ -9,14 +9,14 @@ author_profile: https://github.com/jitendrakansal
 ---
 
 # Enable Multi-User Mode for MDK Application
-<!-- description --> Set up the Mobile Development Kit client to enable the multi-user mode (one device, multiple users with secure access).
+<!-- description --> Set up the mobile development kit client to enable the multi-user mode (one device, multiple users with secure access).
 
 
 ## Prerequisites
 - **Tutorial**: [Set Up for the Mobile Development Kit (MDK)](https://developers.sap.com/group.mobile-dev-kit-setup.html)
 - **Install SAP Mobile Services Client** on your [Android](https://play.google.com/store/apps/details?id=com.sap.mobileservices.client) device or [iOS](https://apps.apple.com/us/app/sap-mobile-services-client/id1413653544)
 <table><tr><td align="center"><!-- border -->![Play Store QR Code](img-1.1.1.png)<br>Android</td><td align="center">![App Store QR Code](img-1.1.2.png)<br>iOS</td></tr></table>
-- **Download the latest version of Mobile Development Kit SDK if you want to enable multi-user mode in MDK custom client** either from the SAP community [trial download](https://developers.sap.com/trials-downloads.html?search=Mobile+Development+Kit) or [SAP Software Center](https://me.sap.com/softwarecenter) if you are a SAP Mobile Services customer. This is required you to build a branded client.
+- **Download the latest version of mobile development kit SDK if you want to enable multi-user mode in MDK custom client** either from the SAP community [trial download](https://developers.sap.com/trials-downloads.html?search=Mobile+Development+Kit) or [SAP Software Center](https://me.sap.com/softwarecenter) if you are a SAP Mobile Services customer. This is required you to build a branded client.
 
 ## You will learn
   - How to define an event on user switching
@@ -25,7 +25,7 @@ author_profile: https://github.com/jitendrakansal
 
 
 ## Intro
-You may clone an existing metadata project from the [MDK Tutorial GitHub repository](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/tree/main/5-Brand-Your-Customized-App-with-Mobile-Development-Kit-SDK/3-Enable-MultiUser-Mode-for-MDK-Application) and start directly with step 3 in this tutorial.
+You may clone an existing metadata project from the [MDK Tutorial GitHub repository](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/tree/main/5-Brand-Your-Customized-App-with-mobile-development-kit-SDK/3-Enable-MultiUser-Mode-for-MDK-Application) and start directly with step 3 in this tutorial.
 
 ---
 Multiple user mode is designed for enterprise scenarios where, for example, an employee uses a shared device during their shift. They may go offline while working in the field and return the device at the end of their shift. The next day, the employee might use a different device, while the device used previously could be assigned to another user. This is why it is called multiple user mode. In offline scenarios, multiple user mode ensures that the initial user's data, stored offline, is synchronized with the server before the second user logs in. This process preserves the previous user's changes to the data.
@@ -379,6 +379,6 @@ Follow step 4 from [Build Your Mobile Development Kit Client Using MDK SDK](http
 
 [OPTION END]
 
-You have learned how to enable an Mobile Development Kit Client to support multi-user login capability. This means a Mobile Development Kit Client app on a device can now securely be shared across multiple users. Features such as adding a new user, switching between user sessions, searching for a particular user are supported by the client. Find more information about Multi User in MDK in [help documentation](https://help.sap.com/doc/f53c64b93e5140918d676b927a3cd65b/Cloud/en-US/docs-en/guides/features/onboarding/mdk/multi-user.html).
+You have learned how to enable an mobile development kit Client to support multi-user login capability. This means a mobile development kit Client app on a device can now securely be shared across multiple users. Features such as adding a new user, switching between user sessions, searching for a particular user are supported by the client. Find more information about Multi User in MDK in [help documentation](https://help.sap.com/doc/f53c64b93e5140918d676b927a3cd65b/Cloud/en-US/docs-en/guides/features/onboarding/mdk/multi-user.html).
 
 ---

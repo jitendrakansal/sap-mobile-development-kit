@@ -2,14 +2,14 @@
 parser: v2
 auto_validation: true
 primary_tag: software-product>mobile-development-kit-client
-tags: [ tutorial>intermediate, operating-system>ios, operating-system>android, topic>mobile, software-product>sap-business-technology-platform, software-product>mobile-development-kit-client, software-product>sap-mobile-services, software-product>sap-build-code, software-product>sap-build ]
+tags: [ software-product>mobile-development-kit-client, tutorial>beginner, operating-system>ios, operating-system>android, topic>mobile, software-product>sap-business-technology-platform, software-product>sap-mobile-services, software-product>sap-build-code, software-product>sap-build, software-product>sap-business-application-studio ]
 time: 35
 author_name: Jitendra Kansal
 author_profile: https://github.com/jitendrakansal
 ---
 
 # Build Your Mobile Development Kit Client Using Cloud Build Service
-<!-- description --> Build a standard or a customized Mobile Development Kit client using cloud build service and connect to your SAP mobile app.
+<!-- description --> Build a standard or a customized mobile development kit client using cloud build service and connect to your SAP mobile app.
 
 ## Prerequisites
 - **Tutorial**: [Set Up Initial Configuration for an MDK App](https://developers.sap.com/tutorials/cp-mobile-dev-kit-ms-setup.html)
@@ -22,7 +22,7 @@ author_profile: https://github.com/jitendrakansal
   - How to install the binary on your device
 
 ## Intro
-Cloud Build Service provides 2 options for creating a Mobile development kit client:
+Cloud Build Service provides 2 options for creating a mobile development kit client:
 
 1. Create a standard MDK client by providing your own app icon and app logo.
 2. Create a customized MDK client by importing your local `.mdkproject` similar to what you might have done via MDK SDK locally on your machine.
@@ -231,7 +231,7 @@ To enable your app for push notifications, you need to carry out the following t
 
 If you haven't created your local `.mdkproject`, have a look at step 3 from [Build Your Mobile Development Kit Client Using MDK SDK](https://developers.sap.com/tutorials/cp-mobile-dev-kit-build-client.html) tutorial.
 
-Compress your `.mdkproject` folder, the resulting zip file will be used to create a build job for a customized Mobile Development Kit client in Mobile Services admin UI.
+Compress your `.mdkproject` folder, the resulting zip file will be used to create a build job for a customized mobile development kit client in Mobile Services admin UI.
 
 
 ### Configure device platform signing profile in Mobile Services
@@ -299,7 +299,7 @@ You can find more details about Cloud Build service in [help documentation](http
 
     <!-- border -->![MDK](img-4.3.png)
 
-    >Bundle ID (iOS)/ Package Name (Android) is a unique app identifier used to sign Mobile Development Kit clients. For iOS, make sure to provide the same bundle ID while registering an iOS App ID in step 1.
+    >Bundle ID (iOS)/ Package Name (Android) is a unique app identifier used to sign mobile development kit clients. For iOS, make sure to provide the same bundle ID while registering an iOS App ID in step 1.
 
 5. In the **Platform** step, provide a unique value to the **URL Scheme**.
 

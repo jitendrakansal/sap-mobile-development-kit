@@ -9,7 +9,7 @@ author_profile: https://github.com/jitendrakansal
 ---
 
 # Create a Slider Custom Control in an MDK App (Using Metadata Approach)
-<!-- description --> Build and run the Mobile Development Kit client with slider custom control functionality for Android and iOS platforms.
+<!-- description --> Build and run the mobile development kit client with slider custom control functionality for Android and iOS platforms.
 
 ## Prerequisites
 - **Tutorial**: [Set Up for the Mobile Development Kit (MDK)](https://developers.sap.com/group.mobile-dev-kit-setup.html)
@@ -22,7 +22,7 @@ author_profile: https://github.com/jitendrakansal
   - How to implement an extension by writing Native Code in TypeScript via Marshalling
 
 ## Intro
-You may clone an existing metadata project from the [MDK Tutorial GitHub repository](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/tree/main/6-Create-Extension-Controls-in-Mobile-Development-Kit-Apps/1-Create-a-Slider-Custom-Control-Using-Metadata-Approach) and start directly with step 6 in this tutorial.
+You may clone an existing metadata project from the [MDK Tutorial GitHub repository](https://github.com/SAP-samples/cloud-mdk-tutorial-samples/tree/main/6-Create-Extension-Controls-in-mobile-development-kit-Apps/1-Create-a-Slider-Custom-Control-Using-Metadata-Approach) and start directly with step 6 in this tutorial.
 
 ---
 

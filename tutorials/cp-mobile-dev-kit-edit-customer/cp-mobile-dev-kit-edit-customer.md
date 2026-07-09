@@ -2,7 +2,7 @@
 parser: v2
 auto_validation: true
 primary_tag: software-product>mobile-development-kit-client
-tags: [ tutorial>beginner, operating-system>ios, operating-system>android, topic>mobile, software-product>sap-business-technology-platform, software-product>mobile-development-kit-client, software-product>sap-mobile-services, software-product>sap-build-code, software-product>sap-build, software-product>sap-business-application-studio ]
+tags: [ software-product>mobile-development-kit-client, tutorial>beginner, operating-system>ios, operating-system>android, topic>mobile, software-product>sap-business-technology-platform, software-product>sap-mobile-services, software-product>sap-build-code, software-product>sap-build, software-product>sap-business-application-studio ]
 time: 25
 author_name: Jitendra Kansal
 author_profile: https://github.com/jitendrakansal
@@ -307,7 +307,7 @@ Click the **Deploy** option in the editor's header area, and then choose the dep
 
 4. You can cross verify if the record has been updated in the backend.
 
-    >Backend endpoint can be found in [Mobile Services Cockpit](https://developers.sap.com/tutorials/cp-mobile-dev-kit-ms-setup.html).
+    >Backend endpoint can be found in [Mobile Services Admin UI ](https://developers.sap.com/tutorials/cp-mobile-dev-kit-ms-setup.html).
 
     >**Mobile Applications** **&rarr;** **Native/MDK** **&rarr;** click the MDK App **myapp.mdk.demo** **&rarr;** **Connectivity** **&rarr;** click **Launch in Browser** icon
 
@@ -345,7 +345,7 @@ Now, refresh the URL to check if record has been updated in the backend. As Sync
 
 3. You can cross verify if the record has been updated in the backend.
 
-    >Backend endpoint can be found in [Mobile Services Cockpit](https://developers.sap.com/tutorials/cp-mobile-dev-kit-ms-setup.html).
+    >Backend endpoint can be found in [Mobile Services Admin UI](https://developers.sap.com/tutorials/cp-mobile-dev-kit-ms-setup.html).
 
     >**Mobile Applications** **&rarr;** **Native/MDK** **&rarr;** click the MDK App **myapp.mdk.demo** **&rarr;** **Connectivity** **&rarr;** click **Launch in Browser** icon
 
